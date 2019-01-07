@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "main": "base.js",
+  "scripts": {
+    "test": "ahihi"
+  },
+  "author": "thanh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
